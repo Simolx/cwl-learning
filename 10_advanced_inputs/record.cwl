@@ -10,7 +10,7 @@ inputs:
       fields:
         itemA:
           type: string
-          inputBinging:
+          inputBinding:
             prefix: -A
         itemB:
           type: string
@@ -23,7 +23,7 @@ inputs:
         fields:
           itemC:
             type: string
-            inputBinging:
+            inputBinding:
               prefix: -C
       - type: record
         name: itemD

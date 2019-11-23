@@ -1,0 +1,4 @@
+HELLO=Hello world!
+PATH=/usr/local/python3/bin:/usr/local/jdk1.8.0/bin:/usr/local/hadoop/bin:/usr/local/spark/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+HOME=/tmp/1a1r_5ft
+TMPDIR=/tmp/tmp6mj31ih9
